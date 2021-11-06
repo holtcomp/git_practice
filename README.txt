@@ -1,2 +1,2 @@
 Hello Git and GitHub
-Mark Hunter
+Mark Alan Hunter
